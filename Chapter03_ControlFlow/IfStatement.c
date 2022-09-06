@@ -2,7 +2,7 @@
 
 int main()
 {
-    int age_jan = 28;
+    int age_jan = 27;
     int age_marc = 26;
 
     if (age_jan < age_marc)
